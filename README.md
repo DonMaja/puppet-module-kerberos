@@ -104,6 +104,7 @@ additional realms to your [realms] section with Hiera
 ```
 
 
+
 ###extra_realms.yaml:
 ```
   ---
